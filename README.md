@@ -1,5 +1,6 @@
 # PythonProject
-Scientific Python Interactive Data Acoustic Modeling
+(Scientific Python Interactive Data Acoustic Modeling)
+
 The AudioGUI.py file will, when opened, ask the user to input an audio file.
 Upon opening the file the program will display the file name, then be able to convert the audio file to .wav.
 Afterward the program will check if the audio is multi-channel and convert to one channel if so.
